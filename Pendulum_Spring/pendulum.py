@@ -102,9 +102,8 @@ chi2.sf(np.sum(chisql), len(period_l))
 def func1(x, m, b):
     return m*x + b
 
+
 # Fit a line to the data
-
-
 popt1, pcov1 = curve_fit(func1, length, period_l, sigma=eperiod_l)
 
 plt.figure(4)
@@ -134,7 +133,6 @@ chi2.sf(np.sum(chisqline), len(period_l))
 # Maybe try a different functional form...
 #!!! ENTER YOUR CUSTOM FUNCTION HERE !!!
 def func2(x, g):
-
     return
 
 
