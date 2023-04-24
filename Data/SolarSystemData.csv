@@ -8,4 +8,4 @@ Id,Name,Type,Order from Sun,Diameter (Earth=1),Diameter (km),Mass (Earth=1),Mean
 7,Saturn,Gas giant,7,9.44,120000,95,9.54,29.46,0.056,9.64,0.44,26.73,-170,0.93,35.49,0.71,H2+He,62,true,1,Images\Saturn.jpg,http://en.wikipedia.org/wiki/Saturn
 8,Uranus,Gas giant,8,4.007,51118,15,19.18,84.01,0.0461,6.81,-0.72,97.92,-200,0.89,21.29,1.24,H2+He,27,true,1,Images\Uranus.jpg,http://en.wikipedia.org/wiki/Uranus
 9,Neptune,Gas giant,9,3.883,49528,17,30.06,164.8,0.0097,5.43,0.72,28.8,-210,1.12,23.71,1.67,H2+He,13,true,1,Images\Neptune.jpg,http://en.wikipedia.org/wiki/Neptune
-11,Pluto,Dwarf planet,10,0.18,2300,0.002,39.44,247.7,0.2482,4.74,-6.38,122,-220,0.06,1.27,2.03,CH4,3,false,1,Images\Pluto.jpg,http://en.wikipedia.org/wiki/Pluto
+11,Pluto,Dwarf planet,10,0.18,2300,0.002,39.44,247.7,0.2482,4.74,-6.38,122,-220,0.06,1.27,2.03,CH4,3,false,1,Images\Pluto.jpg,http://en.wikipedia.org/wiki/Pluto 
